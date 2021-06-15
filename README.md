@@ -1,2 +1,3 @@
 # GHHS Chinese student association
-instagram 
+[Our Instagram](https://www.instagram.com/ghhscsa/)
+
