@@ -1,6 +1,8 @@
 <h1>Green Hope High School Chinese Student Association</h1>
-</Title>  
-</Head>  
+
+ 
+</Green Hope High School Chinese Student Association>  
+
 <Body background="https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg"> 
 
 
