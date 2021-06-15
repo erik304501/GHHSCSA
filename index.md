@@ -8,7 +8,7 @@
 <h2><a href="about.md">Calender</a></h2>
 
 <h2>important dates: (2021-2022)</h2>
-   
-[Calender](about.md)
+  
+  9/10/21: Registration 
   
 ![Green Hope](https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg?raw=true) 
