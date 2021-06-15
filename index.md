@@ -7,6 +7,6 @@
 
 <h2>important dates: (2021-2022)</h2>
   
-[<h3>Calender</a></h3>](about.md) 
+[##Calender](about.md) 
   
 ![Green Hope](https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg?raw=true) 
