@@ -5,7 +5,7 @@
 
 <h2><a href="mailto:ghhscsa@gmail.com">Email Us</a></h2>
 
-<h2>important dates:</a></h2>
+<h2>important dates</a></h2>
   
 [Calender](about.md) 
   
