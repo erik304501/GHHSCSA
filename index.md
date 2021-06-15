@@ -8,4 +8,4 @@
   
   <h3>xx/yy: Registration</h3>
   
-![Green Hope](https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg?raw=true) 
+h2{ background:url(https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg?raw=true) }
