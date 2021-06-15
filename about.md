@@ -4,6 +4,6 @@
   
   First meeting (sample)
   
-  ![sample](https://github.com/erik304501/GHHSCSA/blob/main/159982708_262323668828807_1461764595265776748_n.jpg)
+  ![sample](https://github.com/erik304501/GHHSCSA/blob/main/159982708_262323668828807_1461764595265776748_n.jpg?raw=true)
  
  
