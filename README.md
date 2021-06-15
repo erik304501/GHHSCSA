@@ -1,7 +1,7 @@
 <h1>Green Hope High School Chinese Student Association</h1>
 
 
-<h2><a href="https://www.instagram.com/ghhscsa/">Our Instagram</h2></a>
+<h2><a href="https://www.instagram.com/ghhscsa/">Our Instagram</a></h2>
 
 
 <a href="mailto:ghhscsa@gmail.com"><h2>Email Us</h2>
