@@ -14,5 +14,5 @@
   
   <h3>xx/yy  - Registration</h3> 
  
- ![GHHS](https://github.com/erik304501/GHHSCSA/blob/main/green-hope-entrance_4.jpg?raw=true)  
+ <a href="https://github.com/erik304501/GHHSCSA/blob/main/green-hope-entrance_4.jpg/">GHHS</a> 
   
