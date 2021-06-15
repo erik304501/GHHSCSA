@@ -1,4 +1,8 @@
 <h1>Green Hope High School Chinese Student Association</h1>
+</Title>  
+</Head>  
+<Body background="https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg"> 
+
 
 <h2><a href="https://www.instagram.com/ghhscsa/">Our Instagram</a> &nbsp;&nbsp;    <a href="mailto:ghhscsa@gmail.com">Email Us &nbsp;&nbsp; <a href="about.html">Calender</a>
 
@@ -7,5 +11,4 @@
   <h2>important dates: (2021-2022)</h2> 
   
   <h3>xx/yy  - Registration</h3> 
-  
   ![GHHS](https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg) 
