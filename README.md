@@ -1,1 +1,1 @@
-# erik304501.github.io
+# GHHS Chinese student association
