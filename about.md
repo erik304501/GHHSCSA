@@ -1,6 +1,6 @@
-<h1>Calender<h1>
+<h1>Calender</h1>
   
-<h2>Future events</a></h2>
+<h2>Future events</h2>
   
   First meeting (sample) </a> 
   
