@@ -5,8 +5,8 @@
 
 <h2><a href="mailto:ghhscsa@gmail.com">Email Us</a></h2>
 
-<h2>*important dates*: (2021-2022)</h2>
+<h2>important dates: (2021-2022)</h2>
   
-[Calender](about.md) 
+[<h3>Calender</h3>](about.md) 
   
 ![Green Hope](https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg?raw=true) 
