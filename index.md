@@ -6,6 +6,6 @@
 
   <h2>important dates: (2021-2022)</h2> 
   
-  <h3>xx/yy: Registration</h3>
+  <h3>xx/yy  - Registration</h3> 
   
-![GHHS](https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg?raw=true) 
+  ![GHHS](https://github.com/erik304501/GHHS-CSA/blob/main/green-hope-entrance_4.jpg) 
