@@ -2,7 +2,7 @@
   
 <h2>Future events</a></h2>
   
-  First meeting (sample)
+  First meeting (sample) </a> 
   
   ![sample](https://github.com/erik304501/GHHSCSA/blob/main/159982708_262323668828807_1461764595265776748_n.jpg)
  
