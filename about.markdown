@@ -8,7 +8,7 @@ This website is developed and managed by Erik Xie, the current vice president of
 
 Executive Board (2021-2022):
 
-Alexa 
+Alexa
 Erik
 Corrine
 Zhijia
