@@ -3,7 +3,7 @@
 
 <p>We are located in Cary, NC, USA. TEST</p>
 
-<h2><a href="https://www.instagram.com/ghhscsa/">Our Instagram</a> &nbsp;&nbsp;    <a href="mailto:ghhscsa@gmail.com">Email Us &nbsp;&nbsp; <a href="/.about.html">Calender</a>
+<h2><a href="https://www.instagram.com/ghhscsa/">Our Instagram</a> &nbsp;&nbsp;    <a href="mailto:ghhscsa@gmail.com">Email Us &nbsp;&nbsp; <a href="/.about.md">Calender</a>
 
 <br>
   
