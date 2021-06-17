@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 
 <h1>Green Hope High School Chinese Student Association</h1>
 
