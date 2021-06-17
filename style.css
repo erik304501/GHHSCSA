@@ -1,5 +1,7 @@
-* {
+body {
     background-image: url('Landscape.jpg');
     background-size: cover;
+    margin:0;
+    padding:0;
 }
     
