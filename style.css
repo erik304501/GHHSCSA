@@ -6,10 +6,11 @@ body {
 }
 p {
     font-family: "Georgia";
+    font-size: 16pt;
 }
 h1{
-    font-family:"Georgia"
-    
+    font-family:"Georgia";
+    font-size: 30pt;
 }
 h2{
     font-family: "Georgia"
