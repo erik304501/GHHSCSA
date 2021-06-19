@@ -8,6 +8,6 @@ permalink: /about/
 president: Alexa Bernard  <br>
 vice president: Erik Xie  <br>
 Corrine Liu  <br>
-Jiajia Ye <br>
+Jiajia Ye <br><br>
 This website is developed and managed by Erik Xie.
 </p>
