@@ -9,7 +9,8 @@ president: Alexa Bernard  <br>
 vice president: Erik Xie  <br>
 Corrine Liu  <br>
 Jiajia Ye <br>
-This website is developed and managed by Erik Xie.<p>
+This website is developed and managed by Erik Xie.
 
 
-[jekyll-organization]: https://github.com/jekyll
+[Green Hope HS]:https://www.wcpss.net/greenhopehs
+</p>
