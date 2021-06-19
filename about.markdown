@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Executive Board (2021-2022):
-
-Alexa Bernard
-Erik Xie
-Corrine Liu
-Jiajia Ye
-<br>
-This website is developed and managed by Erik Xie, the current vice president of the club
+<p>Executive Board (2021-2022):  <br>
+president: Alexa Bernard  <br>
+vice president: Erik Xie  <br>
+Corrine Liu  <br>
+Jiajia Ye <br>
+This website is developed and managed by Erik Xie.<p>
 
 
 [jekyll-organization]: https://github.com/jekyll
