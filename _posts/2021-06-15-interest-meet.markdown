@@ -4,7 +4,9 @@ title:  "Interest Meet"
 date:   2021-10-28 20:45:09 -0400
 categories: jekyll update
 ---
-(sample) learn more about this on our instagram 
+<style type="text/"css">
+</style>
+<p>(sample) learn more about this on our instagram</p> 
 
 
 
