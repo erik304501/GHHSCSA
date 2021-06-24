@@ -15,8 +15,11 @@ h1{
 h2{
     font-family: "Georgia"
 }
-.flex-container{
+* {
     
     display:flex;
     flex-flow: row wrap;
+}
+.post{
+    float:right;
 }
