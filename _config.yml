@@ -27,13 +27,6 @@ url: "http://ghhscsa.me/" # the base hostname & protocol for your site, e.g. htt
 twitter_username: jekyllrb
 github_username:  jekyll
 
-defaults:
-  -
-    scope:
-      path:""
-      type: "posts"
-    values:
-      layout: "post"
 
 # Build settings
 theme: minima
