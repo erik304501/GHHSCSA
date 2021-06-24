@@ -21,5 +21,6 @@ li{
 }
 .schedule{
     display:flex;
-    float:right;
+    height:400px;
+    width:100px;
 }
