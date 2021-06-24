@@ -13,13 +13,9 @@ h1{
     font-size: 30pt;
 }
 h2{
-    font-family: "Georgia"
+    font-family: "Georgia";
 }
-* {
-    
-    display:flex;
-    flex-flow: row wrap;
-}
-.post{
-    float:right;
+li{
+    font-family:"Georgia";
+    font-size:15pt;
 }
