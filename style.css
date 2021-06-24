@@ -19,8 +19,7 @@ li{
     font-family:"Georgia";
     font-size:15pt;
 }
-.schedule{
+.post{
     display:flex;
-    height:400px;
-    width:100px;
+    flex-flow: row wrap;
 }
