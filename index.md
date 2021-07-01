@@ -4,7 +4,7 @@
 
 <p>We are located in Cary, NC, USA! <br> Join our remind group with this code: ghhscsa2</p>
 
-<h2><a href="https://www.instagram.com/ghhscsa/">Our Instagram</a> &nbsp;&nbsp;    <a href="mailto:ghhscsa@gmail.com">Email Us &nbsp;&nbsp; <a href="footer">Events</a> </a>
+<h2><a href="https://www.instagram.com/ghhscsa/">Our Instagram</a> &nbsp;&nbsp;    <a href="mailto:ghhscsa@gmail.com">Email Us &nbsp;&nbsp; <a href="#footer">Events</a> </a>
 
 <br>
   
