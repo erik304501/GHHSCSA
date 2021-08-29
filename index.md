@@ -2,7 +2,7 @@
 
 <h1>Green Hope High School Chinese Student Association</h1>
 
-<p>We are located in Cary, NC, USA! <br> Join our remind group with this code: ghhscsa2</p>
+<p>We are located in Cary, NC, USA! Join us if you want to learn about traditional & modern Chinese culture. We will host various events throughout the school year and have a lot of fun! <br> Join our remind group with this code: ghhscsa2</p>
 
 <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSck1FsYbrvgqEr5yORUHh6vXo0bSoem_sL3csA9hE3FCK2O0g/viewform"> Become a Member</a> &nbsp;&nbsp;<a href="https://www.instagram.com/ghhscsa/">Our Instagram</a> &nbsp;&nbsp;    <a href="mailto:ghhscsa@gmail.com">Email Us &nbsp;&nbsp; <a href="#footer">Events</a> </a>
 
