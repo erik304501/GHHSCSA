@@ -4,8 +4,9 @@ title:  "Interest Meet"
 date:   2021-10-17 20:45:09 -0400
 categories: jekyll update
 ---
-<style type="text/"css">
-</style>
+<p> slides 
+https://docs.google.com/presentation/d/1f3C3S6ad30sFv0HrODDd74DGo1G2kjIhjotsxSH-OT0/edit?usp=sharing </p>
+ 
 <p>The meeting will take place during both lunch halves in room 3216</p> 
 
 
